@@ -2,7 +2,7 @@
 
   <p align="center">
     <a href="https://github.com/gabsprogrammer">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=279BEF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Apaixonado%3BConstruindo+Solu%C3%A7%C3%B5es+Modernas%3BAprendizado+Cont%C3%ADnuo" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=279BEF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack%3BConstruindo+Solu%C3%A7%C3%B5es+Modernas%3BAprendizado+Cont%C3%ADnuo" alt="Typing SVG" />
     </a>
   </p>
 
@@ -10,9 +10,6 @@
     </a>
     <a href="mailto:gabrielsantanamadureira@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://SEU_PORTFOLIO.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
