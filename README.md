@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🌱 Focando meus estudos em **[React, Node.js, IA...]**
+- 🌱 Focando meus estudos em **React, Node.js, IA...**
 - 🤝 Habilidades em desenvolvimento de site front/back, com design utilizando ferramentas atuais (WEBGL+THREE.JS) **Open Source**
 - 💡 Gosto de criar soluções que melhorem a experiência do usuário.
 
