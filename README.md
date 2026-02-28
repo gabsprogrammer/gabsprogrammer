@@ -50,19 +50,19 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192px"/>
+  <a href="https://github.com/gabsprogrammer">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabsprogrammer&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192px"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Top Langs" height="192px"/>
+  <a href="https://github.com/gabsprogrammer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsprogrammer&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Top Langs" height="192px"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/gabsprogrammer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabsprogrammer&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
