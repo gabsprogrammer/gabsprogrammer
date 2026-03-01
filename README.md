@@ -18,7 +18,7 @@
 
 ### Sobre mim
 
--  Focando meus estudos em **React, Node.js, Spring Boot e IA**
+-  Focando meus estudos em **React, Node.js, Java, Spring Boot e IA**
 -  Habilidades sólidas no desenvolvimento Web Full Stack, projetando interfaces interativas utilizando ferramentas contemporâneas como **WebGL e Three.js**.
 -  Apaixonado por criar soluções, otimizar performance e garantir a melhor experiência possível para o usuário final.
 
@@ -29,7 +29,7 @@
 <div align="center">
   <p><strong>Frontend</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,angular,tailwind,html,css,threejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,react,angular,tailwind,html,css,threejs&perline=8" />
   </a>
   
   <br><br>
