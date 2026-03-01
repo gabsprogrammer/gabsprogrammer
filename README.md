@@ -18,7 +18,6 @@
 
 ### Sobre mim
 
--  Focando meus estudos em **React, Node.js, Java, Spring Boot e IA**
 -  Habilidades sólidas no desenvolvimento Web Full Stack, projetando interfaces interativas utilizando ferramentas contemporâneas como **WebGL e Three.js**.
 -  Apaixonado por criar soluções, otimizar performance e garantir a melhor experiência possível para o usuário final.
 
