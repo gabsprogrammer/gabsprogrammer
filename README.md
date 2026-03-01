@@ -35,7 +35,7 @@
   <br><br>
   <p><strong>Backend & Banco de Dados</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel,php,mysql,postgres,redis&perline=8" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel,php,mysql,postgres,redis,nextjs,vite&perline=8" />
   </a>
 
   <br><br>
