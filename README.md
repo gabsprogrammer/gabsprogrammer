@@ -6,10 +6,10 @@
 
 <h2> / sobre mim /</h2>
 
-- ⭐ **desenvolvedor web fullstack**
-- 💻 projetando interfaces interativas com **WebGL e Three.js**
-- 🚀 apaixonado por **otimização de performance** e experiência do usuário
-- 📧 entre em contato comigo pelo <a href="mailto:gabrielsantanamadureira@gmail.com">email</a>
+-  **desenvolvedor fullstack**
+- projetando interfaces interativas com **WebGL e Three.js**
+- apaixonado por **otimização de performance** e experiência do usuário
+- entre em contato comigo pelo <a href="mailto:gabrielsantanamadureira@gmail.com">email</a>
   
 <h2> / minhas skills / </h2>
   
