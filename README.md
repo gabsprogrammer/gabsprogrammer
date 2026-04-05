@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.discordapp.net/attachments/1482282377568063589/1490195594222899352/Logo_de_desenvolvedor_full-stack.png?ex=69d32c4c&is=69d1dacc&hm=055fc6016f6b2a104fc45d3b59066fc11c35b64e816f48d2666f0990b8df8e9d&=&format=webp&quality=lossless&width=600&height=160"> </p>
 <h2> </h2>
-<img align="right" width="400" alt="Shimarin" src="https://media.discordapp.net/attachments/1482282377568063589/1490198960243998770/75453444_p0_master1200.jpg?ex=69d32f6e&is=69d1ddee&hm=551cb0aa48ebce6e91fb9fcf9a154d1c4e28f05b96b4dda870b8d30953b3f0dd&=&format=webp&width=400&height=700"/>
+<img align="right" width="400" alt="Shimarin" src="https://media.discordapp.net/attachments/1482282377568063589/1490202630226706472/133629022_p0_master1200.jpg?ex=69d332d9&is=69d1e159&hm=48f51607e04fe50b54fe7749d649eba5035663ac339cdce66c3bff2a08d6267d&=&format=webp&width=679&height=960"/>
 
  / sobre mim /
 
