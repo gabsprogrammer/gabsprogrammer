@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.discordapp.net/attachments/1482282377568063589/1490195594222899352/Logo_de_desenvolvedor_full-stack.png?ex=69d32c4c&is=69d1dacc&hm=055fc6016f6b2a104fc45d3b59066fc11c35b64e816f48d2666f0990b8df8e9d&=&format=webp&quality=lossless&width=600&height=160"> </p>
 
 <div>
-
+<h2> </h2>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
  / sobre mim /
