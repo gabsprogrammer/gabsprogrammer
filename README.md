@@ -10,7 +10,9 @@
 - projetando interfaces interativas com **WebGL e Three.js**
 - apaixonado por **otimização de performance** e experiência do usuário
 - entre em contato comigo pelo <a href="mailto:gabrielsantanamadureira@gmail.com">email</a>
-  
+
+<div>
+ 
  / minhas skills / 
   
 - <h4> frontend </h4>
