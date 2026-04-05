@@ -1,78 +1,56 @@
-<div align="center">
-  <img height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Gabriel%20Santana&fontSize=50&animation=fadeIn&fontAlignY=38" />
+<p align="center"><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+
+<div>
+
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
+<h2> / sobre mim /</h2>
+
+- ⭐ **desenvolvedor web fullstack**
+- 💻 projetando interfaces interativas com **WebGL e Three.js**
+- 🚀 apaixonado por **otimização de performance** e experiência do usuário
+- 📧 entre em contato comigo pelo <a href="mailto:gabrielsantanamadureira@gmail.com">email</a>
+  
+<h2> / minhas skills / </h2>
+  
+- <h4> frontend </h4>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="threejs" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  
+- <h4> backend & banco de dados </h4>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+  
+- <h4> ferramentas & devops </h4>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
   
-  <p align="center">
-    <a href="https://github.com/gabsprogrammer">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=279BEF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack%3BConstruindo+Solu%C3%A7%C3%B5es+Modernas%3BAprendizado+Cont%C3%ADnuo" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="mailto:gabrielsantanamadureira@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
-
-<br>
-
-### Sobre mim
-
--  Habilidades sólidas no desenvolvimento Web Full Stack, projetando interfaces interativas utilizando ferramentas contemporâneas como **WebGL e Three.js**.
--  Apaixonado por criar soluções, otimizar performance e garantir a melhor experiência possível para o usuário final.
-
-<br>
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  <p><strong>Frontend</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,react,angular,tailwind,html,css,threejs&perline=8" />
-  </a>
+<h2> / estatísticas / </h2>
   
-  <br><br>
-  <p><strong>Backend & Banco de Dados</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel,php,mysql,postgres,redis,nextjs,vite&perline=8" />
-  </a>
+<a href="https://github.com/gabsprogrammer">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabsprogrammer&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&v=1.0" alt="GitHub Stats" height="155px"/>
+</a>
+<a href="https://github.com/gabsprogrammer">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabsprogrammer&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&v=1.0" alt="Top Langs" height="155px"/>
+</a>
 
-  <br><br>
-  <p><strong>DevOps & Ferramentas</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=8" />
-  </a>
+<br><br>
+<i>"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender." – Martin Fowler</i>
+  
+<div align="right">
+  <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
 </div>
-
-<br>
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/gabsprogrammer">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabsprogrammer&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&v=1.0" alt="GitHub Stats" height="192px"/>
-  </a>
-  <a href="https://github.com/gabsprogrammer">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabsprogrammer&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&v=1.0" alt="Top Langs" height="192px"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/gabsprogrammer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabsprogrammer&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
----
-<div align="center">
-  <i>"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender." – Martin Fowler</i>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
