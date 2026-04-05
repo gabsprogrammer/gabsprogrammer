@@ -1,17 +1,17 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1482282377568063589/1490195594222899352/Logo_de_desenvolvedor_full-stack.png?ex=69d32c4c&is=69d1dacc&hm=055fc6016f6b2a104fc45d3b59066fc11c35b64e816f48d2666f0990b8df8e9d&=&format=webp&quality=lossless&width=900&height=160"> </p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1482282377568063589/1490195594222899352/Logo_de_desenvolvedor_full-stack.png?ex=69d32c4c&is=69d1dacc&hm=055fc6016f6b2a104fc45d3b59066fc11c35b64e816f48d2666f0990b8df8e9d&=&format=webp&quality=lossless&width=600&height=160"> </p>
 
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h2> / sobre mim /</h2>
+ / sobre mim /
 
 -  **desenvolvedor fullstack**
 - projetando interfaces interativas com **WebGL e Three.js**
 - apaixonado por **otimização de performance** e experiência do usuário
 - entre em contato comigo pelo <a href="mailto:gabrielsantanamadureira@gmail.com">email</a>
   
-<h2> / minhas skills / </h2>
+ / minhas skills / 
   
 - <h4> frontend </h4>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
   
-<h2> / estatísticas / </h2>
+ / estatísticas / 
   
 <a href="https://github.com/gabsprogrammer">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabsprogrammer&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&v=1.0" alt="GitHub Stats" height="155px"/>
