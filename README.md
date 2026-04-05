@@ -42,7 +42,7 @@
   
 <a href="https://github.com/gabsprogrammer">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabsprogrammer&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=00000F&v=1.0" alt="GitHub Stats" height="155px"/>
-</a>
+</a><h4><h4>
 <a href="https://github.com/gabsprogrammer">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabsprogrammer&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=00000F&v=1.0" alt="Top Langs" height="155px"/>
 </a>
