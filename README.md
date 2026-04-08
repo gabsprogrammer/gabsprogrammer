@@ -6,7 +6,8 @@
 
 -  **desenvolvedor fullstack**
 - projetando interfaces interativas com **WebGL e Three.js**
-- apaixonado por **otimização de performance** e experiência do usuário
+- foco em programação blockchain em bibliotecas como Solana, Eth, Sui...
+- atualmente focando em fine-tuning + local LLM's
 - entre em contato comigo pelo <a href="mailto:gabrielsantanamadureira@gmail.com">email</a>
 
 <div>
