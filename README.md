@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1482282377568063589/1496395755496149062/ChatGPT_Image_22_de_abr._de_2026_03_21_17.png?ex=69e9baa5&is=69e86925&hm=95b7eee96da42167d511862cdcab6606ef61cbd60faa7115053273780e1271aa&=&format=webp&quality=lossless&width=1376&height=917"> </p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1482282377568063589/1496395755496149062/ChatGPT_Image_22_de_abr._de_2026_03_21_17.png?ex=69e9baa5&is=69e86925&hm=95b7eee96da42167d511862cdcab6606ef61cbd60faa7115053273780e1271aa&=&format=webp&quality=lossless&width=600&height=250"> </p>
 <h2> </h2>
 <img align="right" width="400" alt="Shimarin" src="https://media.discordapp.net/attachments/1482282377568063589/1496393168181264454/4aedc7a5-a529-49e9-8e12-6c4d403c8151.png?ex=69e9b83c&is=69e866bc&hm=11ec61b568f949011aef79bd33cd97a1851912c99d5c0358724aaf48445d34bd&=&format=webp&quality=lossless&width=300&height=920"/>
  / sobre mim /
