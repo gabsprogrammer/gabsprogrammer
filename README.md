@@ -13,13 +13,5 @@
 
  / estatísticas / 
   
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabsprogrammer&theme=shadow-red&locale=pt_BR&short_numbers=true&card_width=395&card_height=195)](https://git.io/streak-stats)
 
-<br><br>
-<i>"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender." – Martin Fowler</i>
-  
-<div align="right">
-  <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-</div>
-</div>
