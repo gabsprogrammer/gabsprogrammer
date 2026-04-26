@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/e0152abd-5c9a-4bb3-a634-e52b59ae978c" width="460" height="460" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0152abd-5c9a-4bb3-a634-e52b59ae978c" width="460" height="460" />
+</p>
 <h2> </h2>
 
 <img align="right" width="400" alt="Shimarin" src="https://media.discordapp.net/attachments/1482282377568063589/1496393168181264454/4aedc7a5-a529-49e9-8e12-6c4d403c8151.png?ex=69e9b83c&is=69e866bc&hm=11ec61b568f949011aef79bd33cd97a1851912c99d5c0358724aaf48445d34bd&=&format=webp&quality=lossless&width=300&height=920"/>
