@@ -1,10 +1,11 @@
-<img width="1024" height="1536" alt="4aedc7a5-a529-49e9-8e12-6c4d403c8151" src="https://github.com/user-attachments/assets/be6e39ba-858f-4341-af41-56c29ff78beb" />
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0152abd-5c9a-4bb3-a634-e52b59ae978c" width="460" height="460" />
 </p>
 <h2> </h2>
-
-<img width="3004" height="920" alt="4aedc7a5-a529-49e9-8e12-6c4d403c8151" src="https://github.com/user-attachments/assets/be6e39ba-858f-4341-af41-56c29ff78beb" />
+</p>
+<img width="300" height="920" alt="4aedc7a5-a529-49e9-8e12-6c4d403c8151" src="https://github.com/user-attachments/assets/be6e39ba-858f-4341-af41-56c29ff78beb" />
+<h2> </h2>
  / sobre mim /
 
 -  **desenvolvedor fullstack**
